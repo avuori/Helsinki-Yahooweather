@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 10pt;
+}
+
+img {
+    float: right;
+}
+
+b {
+    font-size: 12pt;
+}
